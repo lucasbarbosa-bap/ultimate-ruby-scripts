@@ -23,12 +23,21 @@ Tenho 3 scripts simples até agora:
     </blockquote>
 </details>
 
+<details> 
+    <summary>mikan.rb</summary>
+    <blockquote>
+        <p> API simples da Mikan Tsumiki para entender como o ruby funciona o back end em ruby. <br /> Um protótipo simples usando o framework Sinatra para criar uma API com um mock básico. <br /> O objetivo foi entender roteamento (GET), parâmetros de URL e renderização em tela. </p>
+    </blockquote>
+</details>
+
 <h2> Requisitos/Tecnologias: </h2>
 <ul>
     <li> Ruby </li>
     <li> Gosu </li>
     <li> Tty-prompt </li>
     <li> Colorize </li>
+    <li> Sinastra </li>
+    <li> Sinastra Reload </li>
 </ul>
 
 <h2> Como rodar? </h2>
@@ -41,6 +50,7 @@ Tenho 3 scripts simples até agora:
     <p> <strong style="font-style:italic"> Lobinha </strong> <br /> Não precisa de nada, puro Ruby!</p>
     <p> <strong style="font-style:italic">Ibuki: </strong> <br /> gem install gosu </p>
     <p> <strong style="font-style:italic"> Monopad: </strong> <br />gem install tty-prompt colorize </p>
+    <p> <strong style="font-style:italic"> Mikan: </strong> <br />gem install sinatra sinatra-contrib </p>
 </blockquote>
 
 <blockquote>
